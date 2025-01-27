@@ -69,4 +69,4 @@ Copy the path of the trained model and specify it in `test_run.py` before runnin
 If you encounter any issues or need assistance, feel free to reach out to us.
 
 ## License 📜
-BullyDetect is licensed under the MIT License. See the LICENSE file for more details.
+XRFV2 is licensed under the MIT License. See the LICENSE file for more details.
